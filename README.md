@@ -8,7 +8,7 @@ Until now the survey resulted in two publication shown below:
 [Pregnolato, L. A., de Almeida Viana, R., Passos, C. C., Misailidis, M. L., & Duleba, W. (2018). Ammonia-Elphidium index as a proxy for marine pollution assessment, Northeast Brazil. Journal of Sedimentary Environments, 3(3), 176-186.](https://www.e-publicacoes.uerj.br/index.php/jse/article/view/38001)
 
 
-[PREGNOLATO, Leonardo Antonio; DULEBA, Wânia; IGARI, Alexandre Toshiro; GONçALVES-DIAS, Sylmara Lopes Francelino; "Poluição, Emergência e Transformação dos Padrões Ambientais: Contribuições da Teoria de Campos de Ação Estratégica", p. 153 -174. In: Sustentabilidade e Interdisciplinaridade. São Paulo: Blucher, 2019.
+[Pregnolato, L. A.; Duleba, W.; Igari, A. T.; Gonçalves-Dias, S. L. F.; "Poluição, Emergência e Transformação dos Padrões Ambientais: Contribuições da Teoria de Campos de Ação Estratégica", p. 153 -174. In: Sustentabilidade e Interdisciplinaridade. São Paulo: Blucher, 2019.
 ISBN: 9788521218722, DOI 10.5151/9788521218722-07](https://openaccess.blucher.com.br/article-details/07-21874)
 
 About the canonical correspondence analysis applied on the data analysis:
