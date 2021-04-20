@@ -1,7 +1,7 @@
 library(factoextra)
 library(ggplot2)
 
-bio_cca <- read.csv("biotic_data.csv", row.names=1)
+bio_cca <- read.csv("biotic_biocen_cca.csv", row.names=1)
 View(bio_cca)
 rowsum=apply(bio_cca, 1, sum) 
 colsum=apply(bio_cca, 2, sum)
